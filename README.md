@@ -1,7 +1,8 @@
-# You've got style!
+# Time to be meta
 
-**Instructions**: 
-* Go to the HTML file. Add a style tag to the head of the document. 
-* Change the color of the paragraph elements.
-
-![mockup-image](/image/reference-image.png)
+**Instructions**
+* Create and HTML file. 
+* In the file, declare the document type and add the root element.
+* Nested in the root element, add a `head` element and a `body` element.
+* In the `head` element, create a meta tag for charset and author. Add your name to the author tag. 
+* Add a title in the meta tag and give your document a title. 
